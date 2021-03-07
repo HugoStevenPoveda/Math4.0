@@ -10,6 +10,11 @@ HashRouter as Router,
 
 import Navegar from "./Component/Organisms/Navegar"
 import Articulos from './Component/Pages/Articulos' 
+import Probabilidad from './Component/Pages/Probabilidad'
+import Contactanos from './Component/Pages/Contactanos'
+import Home from './Component/Pages/Home'
+
+
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 const App= ()=>(
@@ -20,13 +25,19 @@ const App= ()=>(
     <Navegar /> 
 
     <Switch>
-        <Route path="/probabilidad">
-           <Probabilidad />
+       <Route path="/ebook/probabilidad" component={Probabilidad}></Route>
+       <Route path="/articulos" component={Articulos}></Route>
+       <Route path="/contactanos" component={Contactanos}></Route>
+       <Route path="/home" component={Home}></Route>
 
-        </Route>
-        <Route path="/articulos" component={Articulos} >
-        </Route>
-          
+       <Route path="/" component={Articulos}></Route>
+
+        
+           
+
+   
+        
+      
 
     </Switch>
 
@@ -42,10 +53,7 @@ const App= ()=>(
 
 ) 
 
-function Probabilidad() {
-  return <h2> hola mundo </h2>
-}
-  
+
      
     
     
