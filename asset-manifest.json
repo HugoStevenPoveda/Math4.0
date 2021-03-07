@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Math4.0/static/css/main.1cf56e95.chunk.css",
-    "main.js": "/Math4.0/static/js/main.d1a18877.chunk.js",
-    "main.js.map": "/Math4.0/static/js/main.d1a18877.chunk.js.map",
+    "main.css": "/Math4.0/static/css/main.40af1390.chunk.css",
+    "main.js": "/Math4.0/static/js/main.976848c8.chunk.js",
+    "main.js.map": "/Math4.0/static/js/main.976848c8.chunk.js.map",
     "runtime-main.js": "/Math4.0/static/js/runtime-main.8c8a1227.js",
     "runtime-main.js.map": "/Math4.0/static/js/runtime-main.8c8a1227.js.map",
     "static/css/2.150d169a.chunk.css": "/Math4.0/static/css/2.150d169a.chunk.css",
-    "static/js/2.b2f2f06b.chunk.js": "/Math4.0/static/js/2.b2f2f06b.chunk.js",
-    "static/js/2.b2f2f06b.chunk.js.map": "/Math4.0/static/js/2.b2f2f06b.chunk.js.map",
+    "static/js/2.5b07b72f.chunk.js": "/Math4.0/static/js/2.5b07b72f.chunk.js",
+    "static/js/2.5b07b72f.chunk.js.map": "/Math4.0/static/js/2.5b07b72f.chunk.js.map",
     "index.html": "/Math4.0/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Math4.0/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1cf56e95.chunk.css.map": "/Math4.0/static/css/main.1cf56e95.chunk.css.map",
-    "static/js/2.b2f2f06b.chunk.js.LICENSE.txt": "/Math4.0/static/js/2.b2f2f06b.chunk.js.LICENSE.txt"
+    "static/css/main.40af1390.chunk.css.map": "/Math4.0/static/css/main.40af1390.chunk.css.map",
+    "static/js/2.5b07b72f.chunk.js.LICENSE.txt": "/Math4.0/static/js/2.5b07b72f.chunk.js.LICENSE.txt",
+    "static/media/Probabilidad.3799c48f.svg": "/Math4.0/static/media/Probabilidad.3799c48f.svg",
+    "static/media/Programacion.60d44c9b.svg": "/Math4.0/static/media/Programacion.60d44c9b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c8a1227.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.b2f2f06b.chunk.js",
-    "static/css/main.1cf56e95.chunk.css",
-    "static/js/main.d1a18877.chunk.js"
+    "static/js/2.5b07b72f.chunk.js",
+    "static/css/main.40af1390.chunk.css",
+    "static/js/main.976848c8.chunk.js"
   ]
 }
